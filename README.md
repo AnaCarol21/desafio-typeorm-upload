@@ -21,6 +21,7 @@ Instalar todas as dependências
 yarn
 ```
 **Atenção:** Para iniciar a aplicação e fazer os testes você deverá criar um banco de dados com o nome "gostack_desafio06_tests" para que os testes possam ser executados
+
 Iniciar aplicação
 ```
 yarn dev:server
